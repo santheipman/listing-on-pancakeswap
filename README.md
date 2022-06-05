@@ -1,6 +1,6 @@
 # Listing on PancakeSwap
 
-### Run locally
+### Run locally (Hardhat Network)
 
 ```
 npx hardhat run scripts/localAddLiqAndSwap.js
